@@ -4,7 +4,7 @@
 The goal of this project is to evaluate customer behavior and revenue stability using cohort analysis. The study focuses on understanding long-term loyalty, assessing the contribution of high-value (wholesale) clients, and identifying seasonal patterns that influence the customer lifecycle.
 
 ### Data Source
-The dataset was sourced from **[Kaggle]([https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci))**, containing all transactions occurring between 01/12/2009 and 09/12/2011 for a registered non-store online retail business. The company primarily sells unique all-occasion gifts.
+The dataset was sourced from **[Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)**, containing all transactions occurring between 01/12/2009 and 09/12/2011 for a registered non-store online retail business. The company primarily sells unique all-occasion gifts.
 
 ### Project Content
 1. **Importing Libraries and Data**: Environment setup and dataset loading.
